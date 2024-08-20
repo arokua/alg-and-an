@@ -1,0 +1,2 @@
+matrix gen/*/__pycache__/
+matrix gen/generation/__pycache__/mazeGenerator.cpython-311.pyc
